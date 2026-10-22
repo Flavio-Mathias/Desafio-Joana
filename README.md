@@ -48,5 +48,4 @@ gcc main.c -o programa.exe
 ```bash
 ./programa
 
-
-Feito por **Flávio Mathias** e **Flávio Henryck**
+```
