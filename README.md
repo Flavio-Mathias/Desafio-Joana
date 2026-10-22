@@ -34,7 +34,7 @@ git clone <url-do-repositorio>
 
 2. Navegue até o diretório do projeto:
 ```bash
-cd Desafio-Joana-main/UT\ Desafio-Joana-main/
+cd Desafio-Joana-main
 
 ```
 
